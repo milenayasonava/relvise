@@ -79,10 +79,45 @@ color: #252B42;
     color: #737373;
 }
 
-.header-info
-
-
-
+.header-info{
+    margin-top: 80px;
+}
+.header-info_title{
+    font-weight: 800;
+    font-size: 58px;
+    line-height: 128%;
+    letter-spacing: 00.2px;
+    color: #252B42;
+    max-width: 396px;
+}
+.header-info_text {
+    margin-top: 35px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0.2px;
+    color: #737373;
+    max-width: 376px;
+}
+.header-info_btns{
+    margin-top: 35px;
+    margin-bottom: 209px;
+    display: flex;
+}
+.header-info_btns .btn_a{
+border-radius: 1px solid #0D5C63;
+border-radius: 37px;
+padding: 0 35px;
+height: 48px;
+display: flex;
+justify-content: center;
+align-self: center;
+max-width: 187px;
+font-size: 14px;
+letter-spacing: 0.2px;
+color: #0D5C63;
+margin-right: 10px;
+}
 
 
 
